@@ -1,1 +1,1 @@
-# video_chat
+# video_chat_client
